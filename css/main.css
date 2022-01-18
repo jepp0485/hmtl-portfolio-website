@@ -27,6 +27,9 @@ body {
     justify-content: start;
     align-items: center;
 }
+.tabs{
+    margin-left: 10px;
+}
 nav {
     width: 35%;
     height: 45px;
