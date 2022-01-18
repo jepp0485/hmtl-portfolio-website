@@ -19,6 +19,7 @@ body {
     justify-content: start;
     align-items: center;
 }
+
 .content {
     height: auto;
     width: 100%;
@@ -27,9 +28,11 @@ body {
     justify-content: start;
     align-items: center;
 }
-.tabs{
+
+.tabs {
     margin-left: 10px;
 }
+
 nav {
     width: 35%;
     height: 45px;
@@ -85,7 +88,8 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
-.block1{
+
+.block1 {
     width: 70%;
     height: 260px;
     border-radius: 20px;
@@ -93,14 +97,16 @@ h2 {
     margin-top: 30px;
     box-shadow: 5px 6px;
 }
-h3{
+
+h3 {
     margin-left: 1%;
     margin-top: 5px;
     font-size: 17px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
-.block2{
+
+.block2 {
     width: 70%;
     height: 210px;
     border-radius: 20px;
@@ -108,7 +114,8 @@ h3{
     margin-top: 140px;
     box-shadow: 5px 6px;
 }
-h4{
+
+h4 {
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 35%;
     font-size: 45px;
@@ -119,14 +126,16 @@ h4{
     margin-top: 50px;
     color: white;
 }
-h5{
+
+h5 {
     margin-left: 27%;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     margin-top: 15px;
 }
-.block3{
+
+.block3 {
     width: 70%;
     height: 260px;
     border-radius: 20px;
