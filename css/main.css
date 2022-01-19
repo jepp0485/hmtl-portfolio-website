@@ -108,10 +108,10 @@ h3 {
 
 .block2 {
     width: 70%;
-    height: 350px;
+    height: px;
     border-radius: 20px;
     background-color: rgb(126, 126, 126);
-    margin-top: 120px;
+    margin-top: 140px;
     box-shadow: 5px 6px;
 }
 
@@ -139,24 +139,19 @@ h4 {
 .website {
     display: flex;
     flex-direction: row;
-    margin-left: 10%;
+    margin-left: 23%;
     margin-top: 20px;
 }
 
-.abtme {
+.abtme{
     height: 30px;
     width: 100%;
     background-color: blue;
 }
 
-.textblock {
+.textblock{
     height: 86%;
     width: 50%;
     margin-left: 15px;
     background-color: red;
-}
-
-.website2 {
-    margin-left: 30%;
-    margin-top: 10px;
 }
