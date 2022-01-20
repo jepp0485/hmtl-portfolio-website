@@ -143,15 +143,21 @@ h4 {
     margin-top: 20px;
 }
 
-.abtme{
+.abtme {
     height: 30px;
     width: 100%;
     background-color: blue;
 }
 
-.textblock{
+.textblock {
     height: 86%;
     width: 50%;
     margin-left: 15px;
+    background-color: red;
+}
+
+.pictureblock {
+    width: 100%;
+    height: 135px;
     background-color: red;
 }
