@@ -151,8 +151,8 @@ h4 {
 
 .textblock {
     height: 86%;
-    width: 50%;
-    margin-left: 15px;
+    width: 96%;
+    margin-left: 17px;
     background-color: red;
 }
 
@@ -160,4 +160,13 @@ h4 {
     width: 100%;
     height: 135px;
     background-color: red;
+}
+
+.pic {
+    width: 180px;
+    height: 100%;
+    float: right;
+    display: block;
+    background-image: url("../img/me.jpg");
+    background-size: cover;
 }
