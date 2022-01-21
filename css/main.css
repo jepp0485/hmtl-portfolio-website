@@ -43,7 +43,8 @@ nav {
     justify-content: start;
     align-items: center;
     margin-top: 15px;
-    box-shadow: 5px 6px;
+    -webkit-box-shadow: 10px 8px 24px 2px #000000; 
+    box-shadow: 10px 8px 24px 2px #000000;
 }
 
 a:hover {
@@ -66,7 +67,8 @@ a {
     border-radius: 20px;
     background-color: rgb(126, 126, 126);
     margin-top: 220px;
-    box-shadow: 5px 6px;
+    -webkit-box-shadow: 10px 8px 24px 2px #000000; 
+    box-shadow: 10px 8px 24px 2px #000000;
 }
 
 h1 {
@@ -95,7 +97,8 @@ h2 {
     border-radius: 20px;
     background-color: rgb(126, 126, 126);
     margin-top: 30px;
-    box-shadow: 5px 6px;
+    -webkit-box-shadow: 10px 8px 24px 2px #000000; 
+    box-shadow: 10px 8px 24px 2px #000000;
 }
 
 h3 {
@@ -112,7 +115,8 @@ h3 {
     border-radius: 20px;
     background-color: rgb(126, 126, 126);
     margin-top: 140px;
-    box-shadow: 5px 6px;
+    -webkit-box-shadow: 10px 8px 24px 2px #000000; 
+    box-shadow: 10px 8px 24px 2px #000000;
 }
 
 h4 {
@@ -133,7 +137,8 @@ h4 {
     border-radius: 20px;
     background-color: rgb(126, 126, 126);
     margin-top: 130px;
-    box-shadow: 5px 6px;
+    -webkit-box-shadow: 10px 8px 24px 2px #000000; 
+    box-shadow: 10px 8px 24px 2px #000000;
 }
 
 .website {
@@ -184,4 +189,29 @@ h5 {
     width: 100%;
     margin-top: 13px;
     background-color: red;
+    display: flex;
+    flex-direction: row;
+}
+
+.whitespace {
+    height: 100%;
+    width: 85%;
+    background-color: plum;
+}
+
+.icons {
+    display: flex;
+    height: 100%;
+    width: 15%;
+    background-color: aquamarine;
+    flex-direction: row;
+}
+
+.ig {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    background-color: blueviolet;
 }
