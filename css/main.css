@@ -186,9 +186,8 @@ h5 {
 
 .socials {
     height: 30px;
-    width: 100%;
+    width: 98%;
     margin-top: 13px;
-    background-color: red;
     display: flex;
     flex-direction: row;
 }
@@ -196,14 +195,12 @@ h5 {
 .whitespace {
     height: 100%;
     width: 85%;
-    background-color: plum;
 }
 
 .icons {
     display: flex;
     height: 100%;
     width: 15%;
-    background-color: aquamarine;
     flex-direction: row;
 }
 
@@ -213,5 +210,4 @@ h5 {
     align-items: center;
     width: 50%;
     height: 100%;
-    background-color: blueviolet;
 }
