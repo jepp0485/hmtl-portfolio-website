@@ -186,7 +186,7 @@ h5 {
 
 .socials {
     height: 30px;
-    width: 98%;
+    width: 86%;
     margin-top: 13px;
     display: flex;
     flex-direction: row;
@@ -200,7 +200,7 @@ h5 {
 .icons {
     display: flex;
     height: 100%;
-    width: 15%;
+    width: 10%;
     flex-direction: row;
 }
 
