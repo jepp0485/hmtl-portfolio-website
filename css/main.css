@@ -111,7 +111,7 @@ h3 {
 
 .block2 {
     width: 70%;
-    height: 65%;
+    height: 60%;
     border-radius: 20px;
     background-color: rgb(126, 126, 126);
     margin-top: 100px;
@@ -150,10 +150,12 @@ h4 {
 
 .firstweb {
     margin-right: 50px;
+    margin-top: 20px;
 }
 
 .bestweb {
     margin-right: 50px;
+    margin-top: 20px;
 }
 
 .abtme {
@@ -245,23 +247,26 @@ h5 {
 }
 
 .textblockweb {
-    height: 100px;
+    height: 60px;
     width: 100%;
     margin-top: 20px;
     display: flex;
     justify-content: space-around;
     flex-direction: row;
-    background-color: red;
 }
 
 .textblock1 {
-    height: 100px;
+    height: 60px;
     width: 30%;
-    background-color: beige;
 }
 
 .textblock2 {
-    height: 100px;
+    height: 60px;
     width: 30%;
-    background-color: aqua;
+}
+
+h6 {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
