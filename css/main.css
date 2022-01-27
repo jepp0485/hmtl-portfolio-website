@@ -9,13 +9,14 @@ body {
 }
 
 .background {
-    height: 100vh;
+    height: 400vh;
     width: 100%;
     background-image: url("../img/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
+    background-attachment: fixed;
     justify-content: start;
     align-items: center;
 }
@@ -111,7 +112,7 @@ h3 {
 
 .block2 {
     width: 70%;
-    height: 60%;
+    height: 350px;
     border-radius: 20px;
     background-color: rgb(126, 126, 126);
     margin-top: 100px;
@@ -123,10 +124,6 @@ h4 {
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 37%;
     font-size: 45px;
-    display: flex;
-    flex-direction: row;
-    justify-content: start;
-    align-items: center;
     margin-top: 30px;
     color: white;
 }
@@ -270,4 +267,44 @@ h6 {
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+}
+
+b {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 32%;
+    font-size: 45px;
+    display: flex;
+    margin-top: 30px;
+    color: white;
+}
+
+.javatextblock {
+    height: 60px;
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: red;
+}
+
+.textblockjava1 {
+    height: 60px;
+    width: 30%;
+    background-color: aqua;
+}
+
+.textblockjava2 {
+    height: 60px;
+    width: 30%;
+    background-color: blueviolet;
+}
+
+.pictureblock2 {
+    width: 100%;
+    height: 135px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-top: 40px;
 }
