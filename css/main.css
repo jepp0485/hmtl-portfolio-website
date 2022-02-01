@@ -124,34 +124,6 @@ h4 {
     box-shadow: 10px 8px 24px 2px #000000;
 }
 
-.website {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 5px;
-    background-color: red;
-}
-
-.website2 {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 5px;
-    background-color: red;
-}
-
-.website3 {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 5px;
-    background-color: red;
-}
-
-.website4 {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 5px;
-    background-color: red;
-}
-
 .firstweb {
     margin-right: 50px;
     margin-top: 20px;
