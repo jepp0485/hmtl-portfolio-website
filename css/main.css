@@ -224,19 +224,16 @@ h4 {
     display: flex;
     justify-content: space-around;
     flex-direction: row;
-    background-color: red;
 }
 
 .textblock1 {
     height: 60px;
     width: 30%;
-    background-color: blue;
 }
 
 .textblock2 {
     height: 60px;
     width: 30%;
-    background-color: antiquewhite;
 }
 
 b {
