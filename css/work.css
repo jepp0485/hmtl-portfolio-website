@@ -152,11 +152,9 @@ h3 {
     display: flex;
     margin-top: 15px;
     justify-content: space-around;
-    background-color: red; 
 }
 
 .links {
     height: 100%;
     width: 22%;
-    background-color: blue;
 }
