@@ -78,37 +78,26 @@ h2 {
 }
 
 .picblockjavagreenfoot {
-    margin-top: 100px;
-    height: 70%;
-    width: 80%;
-    background-color: black;
+    margin-top: 50px;
+    height: 87%;
+    width: 97%;
     display: flex;
+    justify-content: space-around;
+    flex-direction: row;
 }
 
 .picsjava {
     width: 50%;
     height: 60%;
     margin-top: 8%;
-    background-color: red;
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    flex-direction: column;
-    background-attachment: fixed;
-    justify-content: start;
-    align-items: center;
 }
 
 .picsjava2 {
     width: 50%;
     height: 60%;
     margin-top: 8%;
-    background-color: aqua;
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    flex-direction: column;
-    background-attachment: fixed;
-    justify-content: start;
-    align-items: center;
+}
+
+.size {
+    width: 100%;
 }
